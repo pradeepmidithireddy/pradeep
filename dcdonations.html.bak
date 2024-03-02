@@ -1,0 +1,87 @@
+<html>
+    <head>
+          <title>DC DONATIONS</title>
+		</head>	
+	  <body style="background-image:('7.jpeg')">
+	  <center>
+	  <h1><b>DC DONATONS</b></h1>
+	  </center>
+	  <h3><b><u>O+ Group:-</b></u></h3>
+	  <img src="20.png" height="35%">
+	  <p>O+ red blood cells are not universally compatible to all types, but they are compatible to any red blood cells that are positive </p>
+	  <h3><b><u>A+ Group:-</b></u></h3>
+	  <p>People with A positive blood can receive donations from:</p>
+<ul>
+<img src="19.jpeg" height="35%">
+<li>A positive donors</li>
+<li>A negative donors</li>
+<li>O negative donors</li>
+<li>O positive donors</li>
+</ul>
+<h3><b><u>B+ Group:-</b></u></h3>
+<img src="21.jpeg" height="35%">
+<ul>
+<p>People with B positive blood can receive donations from:</p>
+<li>B positive donors</li>
+<li>B negative donors</li>
+<li>O negative donors</li>
+<li>O positive donors</li>
+</ul>
+<h3><b><u>AB+ Group:-</b></u></h3>
+<p>Only AB positive people:</p>
+<p>AB positive red blood cells can only be used to treat people with AB positive blood.</p>
+<img src="22.jpeg" height="35%">
+<h3><b><u>O- Group:-</b></u></h3>
+<p>Everyone can receive O negative red blood cells</p>
+<p>O negative donors are often called �universal donors� because anyone can receive the red blood cells from their donations.</p>
+<p>Although about 8% of the population has O negative blood, it accounts for around 13% of hospital requests for red blood cells.</p>
+<img src="23.jpeg" height="35%">
+<h3><b><u>A- Group:-</b></u></h3>
+<p>Anyone can receive A negative platelets</p>
+<p>A negative red blood cells can be used to treat around 40% of the population.</p>
+<p>However, A negative platelets are particularly important because they can be given to people from all blood groups. That�s why A negative platelets are called the �universal platelet type�.</p>
+<img src="24.jpeg" height="35%">
+<h3><b><u>B- Group:-</b></u></h3>
+<img src="25.jpeg" height="35%">
+<p>B negative blood can help people who are:</p>
+<ul>
+<li>B negative</li>
+<li>B positive</li>
+<li>AB negative</li>
+<li>AB positive</li>
+</ul>
+<p>B negative people can receive red blood cells from:</p>
+<ul>
+<li>B negative donors</li>
+<li>O negative donors</li>
+</ul>
+<img src="26.jpeg" height="35%">
+<P>It�s the rarest blood type</P>
+<P>AB negative donations are extremely versatile, but because it is the rarest blood type finding new donors can be a challenge.</P>
+<P>Plasma from AB negative donations can help treat patients of all blood types, however fresh frozen plasma is only produced from male donations.</P>
+<P>You can receive AB negative red blood cells if you are: </P>
+<ul>
+<li>AB negative</li>
+<li>AB positive</li>
+</ul>
+
+<style>
+	 
+.home{
+			    padding-left:400px;
+				}
+body{
+        background-image:url('14.jpeg');
+		background-repeat:no-repeat;
+		background-size:100% 100%;
+		}
+		.button{
+		font-size:20px;
+		color:red;
+		background-color:pink;
+		}
+		</style>
+		<center>
+<a href="index.html" class="button"><button><p class="button">HOME</p></button></a>
+</center>
+</body>
